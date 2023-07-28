@@ -1,6 +1,7 @@
 # ObjectDetectionForMovement
 This project is a demo of an object detection algorithm that highlights objects in the path of the user and advises them on how to prevent a collision with a simple arrow that points them in the direction to go.
-Installation
+![alt text](https://github.com/samodon/ObjectDetectionForMovement/blob/main/IMG_1452.PNG?raw=true)
+# Installation
 To get started with the project, follow these steps:
 Clone the repository to your local machine.
 Open the ObjectDetectionDemo.xcodeproj file in Xcode.
